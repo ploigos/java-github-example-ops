@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: quay.io/aagreen/java-github-example:1.0.2_c4f9c02
+  tag:
