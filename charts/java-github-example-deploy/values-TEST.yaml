@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: quay.io/aagreen/java-github-example@sha256:4a59f1e0133ffde486cf4b294b70ee54d159d77c78b452a0c8e5914c41f7c176 # written by ploigos-step-runner
+  tag: quay.io/aagreen/java-github-example@sha256:57ebe695cef2536fa62d1eba5f2d74b9420175eae84b068038911ef5908c6a56 # written by ploigos-step-runner
